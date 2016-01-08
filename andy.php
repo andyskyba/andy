@@ -1,2 +1,2 @@
 <?php
-echo 'OMG';
+echo 'OвммвMG';
